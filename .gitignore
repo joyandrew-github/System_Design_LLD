@@ -1,0 +1,38 @@
+# Build directories
+build/
+x64/
+Release/
+Debug/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.vcxproj.user
+
+# Compiled binaries
+*.exe
+*.obj
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
