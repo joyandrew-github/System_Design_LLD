@@ -1,0 +1,3 @@
+D:/Downloads/Food_Delivery_LLD/build/CMakeFiles/food_delivery_lld.dir
+D:/Downloads/Food_Delivery_LLD/build/CMakeFiles/ALL_BUILD.dir
+D:/Downloads/Food_Delivery_LLD/build/CMakeFiles/ZERO_CHECK.dir
